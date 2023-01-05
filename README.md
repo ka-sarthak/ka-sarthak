@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sarthak Kapoor, a final-year master's student in Simulation Sciences at RWTH. 
+- 👋 Hi, I’m Sarthak Kapoor, a final-year master's student in Simulation Sciences at RWTH. You can also find me here => https://ka-sarthak.github.io/
 - 👀 My interests lie in the confluence of machine learning, applied maths and physics.
 - 📫 Reach me at sarthak.kapoor@rwth-aachen.de
 
